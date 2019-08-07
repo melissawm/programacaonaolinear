@@ -1,0 +1,9 @@
+name: pnlenv
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - sumpy
+  - matplotlib
+  - pandas
+  - scipy
